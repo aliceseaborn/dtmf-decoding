@@ -1,0 +1,7 @@
+With plt = 1
+	Time elapsed is about 14.57 seconds.
+
+With plt = 0
+	Time elapsed is about 0.5299 seconds.
+
+You could run our code on a cell phone!
